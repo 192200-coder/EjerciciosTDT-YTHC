@@ -1,4 +1,10 @@
 //funciones/sumaTest.js
+
+/****** */
+
+//Version refactorizada
+
+/****** */
 /*const suma = (...args) => {
     // Caso 1: no se pasan parámetros
     if (args.length === 0) {
